@@ -26,7 +26,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230908":{
 		"Raid":{
 			"Name":{},
@@ -39,7 +39,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230909":{
 		"Raid":{
 			"Name":{},
@@ -52,7 +52,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230910":{
 		"Raid":{
 			"Name":{},
@@ -65,7 +65,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230911":{
 		"Raid":{
 			"Name":{},
@@ -78,7 +78,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230912":{
 		"Raid":{
 			"Name":{},
@@ -91,7 +91,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}	
 ,	"20230913":{
 		"Raid":{
 			"Name":{},
@@ -101,12 +101,6 @@
 			"Modifiers":{},
 			"Weapon":{}}
 		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}}	
-,
-		"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
@@ -123,7 +117,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230915":{
 		"Raid":{
 			"Name":{},
@@ -136,7 +130,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230916":{
 		"Raid":{
 			"Name":{},
@@ -149,7 +143,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230917":{
 		"Raid":{
 			"Name":{},
@@ -162,7 +156,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230918":{
 		"Raid":{
 			"Name":{},
@@ -175,7 +169,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230919":{
 		"Raid":{
 			"Name":{},
@@ -188,7 +182,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230920":{
 		"Raid":{
 			"Name":{},
@@ -198,12 +192,6 @@
 			"Modifiers":{},
 			"Weapon":{}}
 		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}}	
-,
-		"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
@@ -220,7 +208,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230922":{
 		"Raid":{
 			"Name":{},
@@ -233,7 +221,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230923":{
 		"Raid":{
 			"Name":{},
@@ -246,7 +234,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230924":{
 		"Raid":{
 			"Name":{},
@@ -259,7 +247,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230925":{
 		"Raid":{
 			"Name":{},
@@ -272,7 +260,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230926":{
 		"Raid":{
 			"Name":{},
@@ -285,7 +273,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230927":{
 		"Raid":{
 			"Name":{},
@@ -298,8 +286,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
-
+			"Reward":{}}}
 ,	"20230928":{
 		"Raid":{
 			"Name":{},
@@ -312,7 +299,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230929":{
 		"Raid":{
 			"Name":{},
@@ -325,7 +312,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20230930":{
 		"Raid":{
 			"Name":{},
@@ -338,7 +325,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231001":{
 		"Raid":{
 			"Name":{},
@@ -351,7 +338,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231002":{
 		"Raid":{
 			"Name":{},
@@ -364,7 +351,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231003":{
 		"Raid":{
 			"Name":{},
@@ -377,7 +364,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231004":{
 		"Raid":{
 			"Name":{},
@@ -390,7 +377,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231005":{
 		"Raid":{
 			"Name":{},
@@ -403,7 +390,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231006":{
 		"Raid":{
 			"Name":{},
@@ -416,7 +403,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231007":{
 		"Raid":{
 			"Name":{},
@@ -429,7 +416,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231008":{
 		"Raid":{
 			"Name":{},
@@ -442,7 +429,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231009":{
 		"Raid":{
 			"Name":{},
@@ -455,7 +442,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231010":{
 		"Raid":{
 			"Name":{},
@@ -468,7 +455,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231011":{
 		"Raid":{
 			"Name":{},
@@ -481,7 +468,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231012":{
 		"Raid":{
 			"Name":{},
@@ -494,7 +481,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231013":{
 		"Raid":{
 			"Name":{},
@@ -507,7 +494,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231014":{
 		"Raid":{
 			"Name":{},
@@ -520,7 +507,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231015":{
 		"Raid":{
 			"Name":{},
@@ -533,7 +520,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231016":{
 		"Raid":{
 			"Name":{},
@@ -546,7 +533,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231017":{
 		"Raid":{
 			"Name":{},
@@ -559,7 +546,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231018":{
 		"Raid":{
 			"Name":{},
@@ -572,7 +559,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231019":{
 		"Raid":{
 			"Name":{},
@@ -585,7 +572,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231020":{
 		"Raid":{
 			"Name":{},
@@ -598,7 +585,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231021":{
 		"Raid":{
 			"Name":{},
@@ -611,7 +598,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231022":{
 		"Raid":{
 			"Name":{},
@@ -624,7 +611,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231023":{
 		"Raid":{
 			"Name":{},
@@ -637,8 +624,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
-
+			"Reward":{}}}
 ,	"20231024":{
 		"Raid":{
 			"Name":{},
@@ -651,7 +637,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231025":{
 		"Raid":{
 			"Name":{},
@@ -664,7 +650,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231026":{
 		"Raid":{
 			"Name":{},
@@ -677,7 +663,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231027":{
 		"Raid":{
 			"Name":{},
@@ -690,7 +676,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231028":{
 		"Raid":{
 			"Name":{},
@@ -703,7 +689,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231029":{
 		"Raid":{
 			"Name":{},
@@ -716,8 +702,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
-
+			"Reward":{}}}
 ,	"20231030":{
 		"Raid":{
 			"Name":{},
@@ -730,7 +715,7 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}
 ,	"20231031":{
 		"Raid":{
 			"Name":{},
@@ -743,4 +728,4 @@
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}}	
+			"Reward":{}}}}
