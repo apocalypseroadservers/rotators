@@ -1,731 +1,380 @@
 {
-	"20230906":{
+	"20230905":{
 		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-,
+			"Name":"Deep Stone Crypt",
+			"Challenges":{
+				"0":"Cosmic Equillibrium",
+				"1":"Hands Off",
+				"2":"Looping Catalyst",
+				"3":"Wait for It...",
+				"4":"Copies of Copies",
+				"5":"Leftovers",
+				"6":"A Link to the Chain",
+				"7":"To the Top",
+				"8":"Zero to One Hundred"}				
+			"Exotic":"Eyes of Tomorrow",
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"},
+		"Dungeon":{	
+			"Name":"Prophecy",
+			"Exotic":"none",
+			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
 		"Nightfall":{
 			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-,
+			"image":{},
+			"Weapon":{}},
 		"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
+			"Reward":{},
+			"image":{}}}
+,	"20230906":{
+		"Raid":{
+			"Name":"Deep Stone Crypt",
+			"Challenges":{
+				"0":"Cosmic Equillibrium",
+				"1":"Hands Off",
+				"2":"Looping Catalyst",
+				"3":"Wait for It...",
+				"4":"Copies of Copies",
+				"5":"Leftovers",
+				"6":"A Link to the Chain",
+				"7":"To the Top",
+				"8":"Zero to One Hundred"}
+			"Exotic":"Eyes of Tomorrow",
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
+		"Dungeon":{
+			"Name":"Prophecy",
+			"Exotic":"none",
+			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
+		,"Nightfall":{
+			"Name":{},
+			"image":{},
+			"Weapon":{}}
+		,"LostSector":{
+			"Name":{},
+			"Champions":{},
+			"Shields":{},
+			"Reward":{},
+			"image":{}}}
 ,	"20230907":{
 		"Raid":{
-			"Name":{},
-			"Challenges":{}}
+			"Name":"Deep Stone Crypt",
+			"Challenges":{
+				"0":"Cosmic Equillibrium",
+				"1":"Hands Off",
+				"2":"Looping Catalyst",
+				"3":"Wait for It...",
+				"4":"Copies of Copies",
+				"5":"Leftovers",
+				"6":"A Link to the Chain",
+				"7":"To the Top",
+				"8":"Zero to One Hundred"}
+			"Exotic":"Eyes of Tomorrow",
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
+		"Dungeon":{
+			"Name":"Prophecy",
+			"Exotic":"none",
+			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
 		,"Nightfall":{
 			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
+			"image":{},
+			"Weapon":{},
+			"image":{}}
 		,"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
+			"Reward":{},
+			"image":{}}}
 ,	"20230908":{
 		"Raid":{
-			"Name":{},
-			"Challenges":{}}
+			"Name":"Deep Stone Crypt",
+			"Challenges":{
+				"0":"Cosmic Equillibrium",
+				"1":"Hands Off",
+				"2":"Looping Catalyst",
+				"3":"Wait for It...",
+				"4":"Copies of Copies",
+				"5":"Leftovers",
+				"6":"A Link to the Chain",
+				"7":"To the Top",
+				"8":"Zero to One Hundred"}
+			"Exotic":"Eyes of Tomorrow",
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
+		"Dungeon":{
+			"Name":"Prophecy",
+			"Exotic":""none,
+			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
 		,"Nightfall":{
 			"Name":{},
-			"Modifiers":{},
+			"image":{},
 			"Weapon":{}}
 		,"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
+			"Reward":{},
+			"image":{}}}
 ,	"20230909":{
 		"Raid":{
-			"Name":{},
-			"Challenges":{}}
+			"Name":"Deep Stone Crypt",
+			"Challenges":{
+				"0":"Cosmic Equillibrium",
+				"1":"Hands Off",
+				"2":"Looping Catalyst",
+				"3":"Wait for It...",
+				"4":"Copies of Copies",
+				"5":"Leftovers",
+				"6":"A Link to the Chain",
+				"7":"To the Top",
+				"8":"Zero to One Hundred"}
+			"Exotic":Eyes of Tomorrow,
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
+		"Dungeon":{
+			"Name":"Prophecy",
+			"Exotic":"none",
+			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
 		,"Nightfall":{
 			"Name":{},
-			"Modifiers":{},
+			"image":{},
 			"Weapon":{}}
 		,"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
+			"Reward":{},
+			"image":{}}}
 ,	"20230910":{
 		"Raid":{
-			"Name":{},
-			"Challenges":{}}
+			"Name":"Deep Stone Crypt",
+			"Challenges":{
+				"0":"Cosmic Equillibrium",
+				"1":"Hands Off",
+				"2":"Looping Catalyst",
+				"3":"Wait for It...",
+				"4":"Copies of Copies",
+				"5":"Leftovers",
+				"6":"A Link to the Chain",
+				"7":"To the Top",
+				"8":"Zero to One Hundred"}
+			"Exotic":Eyes of Tomorrow,
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
+		"Dungeon":{
+			"Name":"Prophecy",
+			"Exotic":"none",
+			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
 		,"Nightfall":{
 			"Name":{},
-			"Modifiers":{},
+			"image":{},
 			"Weapon":{}}
 		,"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
+			"Reward":{},
+			"image":{}}}
 ,	"20230911":{
 		"Raid":{
-			"Name":{},
-			"Challenges":{}}
+			"Name":"Deep Stone Crypt",
+			"Challenges":{
+				"0":"Cosmic Equillibrium",
+				"1":"Hands Off",
+				"2":"Looping Catalyst",
+				"3":"Wait for It...",
+				"4":"Copies of Copies",
+				"5":"Leftovers",
+				"6":"A Link to the Chain",
+				"7":"To the Top",
+				"8":"Zero to One Hundred"}
+			"Exotic":Eyes of Tomorrow,
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
+		"Dungeon":{
+			"Name":"Prophecy",
+			"Exotic":"none",
+			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
 		,"Nightfall":{
 			"Name":{},
-			"Modifiers":{},
+			"image":{},
 			"Weapon":{}}
 		,"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
+			"Reward":{},
+			"image":{}}}
 ,	"20230912":{
 		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		"Nightfall":{
 			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
+			"image":{},
+			"Weapon":{}},
+		"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}	
+			"Reward":{},
+			"image":{}}}
 ,	"20230913":{
 		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		"Nightfall":{
 			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
+			"image":{},
+			"Weapon":{}},
+		"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
+			"Reward":{},
+			"image":{}}}
 ,	"20230914":{
 		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		"Nightfall":{
 			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
+			"image":{},
+			"Weapon":{}},
+		"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
+			"Reward":{},
+			"image":{}}}
 ,	"20230915":{
 		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		"Nightfall":{
 			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
+			"image":{},
+			"Weapon":{}},
+		"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
+			"Reward":{},
+			"image":{}}}
 ,	"20230916":{
 		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		"Nightfall":{
 			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
+			"image":{},
+			"Weapon":{}},
+		"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
+			"Reward":{},
+			"image":{}}}
 ,	"20230917":{
 		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		"Nightfall":{
 			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
+			"image":{},
+			"Weapon":{}},
+		"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
+			"Reward":{},
+			"image":{}}}
 ,	"20230918":{
 		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		"Nightfall":{
 			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20230919":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
+			"image":{},
+			"Weapon":{}},
+		"LostSector":{
 			"Name":{},
 			"Champions":{},
 			"Shields":{},
-			"Reward":{}}}
-,	"20230920":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20230921":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20230922":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20230923":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20230924":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20230925":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20230926":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20230927":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20230928":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20230929":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20230930":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231001":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231002":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231003":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231004":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231005":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231006":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231007":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231008":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231009":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231010":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231011":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231012":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231013":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231014":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231015":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231016":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231017":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231018":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231019":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231020":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231021":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231022":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231023":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231024":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231025":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231026":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231027":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231028":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231029":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231030":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}
-,	"20231031":{
-		"Raid":{
-			"Name":{},
-			"Challenges":{}}
-		,"Nightfall":{
-			"Name":{},
-			"Modifiers":{},
-			"Weapon":{}}
-		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{}}}}
+			"Reward":{},
+			"image":{}}}}
