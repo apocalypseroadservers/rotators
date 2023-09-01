@@ -27,7 +27,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
 ,	"20230906":{
 		"Raid":{
 			"Name":"Deep Stone Crypt",
@@ -56,7 +58,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
 ,	"20230907":{
 		"Raid":{
 			"Name":"Deep Stone Crypt",
@@ -86,7 +90,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
 ,	"20230908":{
 		"Raid":{
 			"Name":"Deep Stone Crypt",
@@ -115,7 +121,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
 ,	"20230909":{
 		"Raid":{
 			"Name":"Deep Stone Crypt",
@@ -144,7 +152,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
 ,	"20230910":{
 		"Raid":{
 			"Name":"Deep Stone Crypt",
@@ -173,7 +183,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
 ,	"20230911":{
 		"Raid":{
 			"Name":"Deep Stone Crypt",
@@ -202,7 +214,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
 ,	"20230912":{
 		"Raid":{
 			"Name":"Vault of Glass",
@@ -227,7 +241,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
 ,	"20230913":{
 		"Raid":{
 			"Name":"Vault of Glass",
@@ -252,7 +268,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
 ,	"20230914":{
 		"Raid":{
 			"Name":"Vault of Glass",
@@ -277,7 +295,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
 ,	"20230915":{
 		"Raid":{
 			"Name":"Vault of Glass",
@@ -302,7 +322,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"1"}}
 ,	"20230916":{
 		"Raid":{
 			"Name":"Vault of Glass",
@@ -327,7 +349,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"1"}}
 ,	"20230917":{
 		"Raid":{
 			"Name":"Vault of Glass",
@@ -352,7 +376,9 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"1"}}
 ,	"20230918":{
 		"Raid":{
 			"Name":"Vault of Glass",
@@ -377,4 +403,6 @@
 			"Champions":{},
 			"Shields":{},
 			"Reward":{},
-			"image":{}}}}
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"1"}}}
