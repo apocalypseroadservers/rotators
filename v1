@@ -12,13 +12,13 @@
 				"6":"A Link to the Chain",
 				"7":"To the Top",
 				"8":"Zero to One Hundred"}				
-			"Exotic":"Eyes of Tomorrow",
+			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"},
 		"Dungeon":{	
 			"Name":"Prophecy",
 			"Exotic":"none",
 			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
-		"Nightfall":{
+		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
@@ -41,9 +41,9 @@
 				"6":"A Link to the Chain",
 				"7":"To the Top",
 				"8":"Zero to One Hundred"}
-			"Exotic":"Eyes of Tomorrow",
+			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
-		"Dungeon":{
+		,"Dungeon":{
 			"Name":"Prophecy",
 			"Exotic":"none",
 			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
@@ -70,9 +70,9 @@
 				"6":"A Link to the Chain",
 				"7":"To the Top",
 				"8":"Zero to One Hundred"}
-			"Exotic":"Eyes of Tomorrow",
+			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
-		"Dungeon":{
+		,"Dungeon":{
 			"Name":"Prophecy",
 			"Exotic":"none",
 			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
@@ -100,11 +100,11 @@
 				"6":"A Link to the Chain",
 				"7":"To the Top",
 				"8":"Zero to One Hundred"}
-			"Exotic":"Eyes of Tomorrow",
+			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
-		"Dungeon":{
+		,"Dungeon":{
 			"Name":"Prophecy",
-			"Exotic":""none,
+			"Exotic":"none",
 			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
 		,"Nightfall":{
 			"Name":{},
@@ -129,9 +129,9 @@
 				"6":"A Link to the Chain",
 				"7":"To the Top",
 				"8":"Zero to One Hundred"}
-			"Exotic":Eyes of Tomorrow,
+			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
-		"Dungeon":{
+		,"Dungeon":{
 			"Name":"Prophecy",
 			"Exotic":"none",
 			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
@@ -158,9 +158,9 @@
 				"6":"A Link to the Chain",
 				"7":"To the Top",
 				"8":"Zero to One Hundred"}
-			"Exotic":Eyes of Tomorrow,
+			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
-		"Dungeon":{
+		,"Dungeon":{
 			"Name":"Prophecy",
 			"Exotic":"none",
 			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
@@ -187,9 +187,9 @@
 				"6":"A Link to the Chain",
 				"7":"To the Top",
 				"8":"Zero to One Hundred"}
-			"Exotic":Eyes of Tomorrow,
+			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
-		"Dungeon":{
+		,"Dungeon":{
 			"Name":"Prophecy",
 			"Exotic":"none",
 			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
@@ -212,13 +212,13 @@
 				"2":"Out of its Way",
 				"3":"Wait for It...",
 				"4":"Ensemble's Refrain"}			
-			"Exotic":"Vex Mythoclast",
+			,"Exotic":"Vex Mythoclast",
 			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
 		"Dungeon":{	
 			"Name":"Grasp of Avarice",
 			"Exotic":"Gjallarhorn",
 			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
-		"Nightfall":{
+		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
@@ -237,13 +237,13 @@
 				"2":"Out of its Way",
 				"3":"Wait for It...",
 				"4":"Ensemble's Refrain"}			
-			"Exotic":"Vex Mythoclast",
+			,"Exotic":"Vex Mythoclast",
 			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
 		"Dungeon":{	
 			"Name":"Grasp of Avarice",
 			"Exotic":"Gjallarhorn",
 			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
-		"Nightfall":{
+		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
@@ -262,13 +262,13 @@
 				"2":"Out of its Way",
 				"3":"Wait for It...",
 				"4":"Ensemble's Refrain"}			
-			"Exotic":"Vex Mythoclast",
+			,"Exotic":"Vex Mythoclast",
 			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
 		"Dungeon":{	
 			"Name":"Grasp of Avarice",
 			"Exotic":"Gjallarhorn",
 			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
-		"Nightfall":{
+		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
@@ -287,13 +287,13 @@
 				"2":"Out of its Way",
 				"3":"Wait for It...",
 				"4":"Ensemble's Refrain"}			
-			"Exotic":"Vex Mythoclast",
+			,"Exotic":"Vex Mythoclast",
 			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
 		"Dungeon":{	
 			"Name":"Grasp of Avarice",
 			"Exotic":"Gjallarhorn",
 			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
-		"Nightfall":{
+		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
@@ -312,13 +312,13 @@
 				"2":"Out of its Way",
 				"3":"Wait for It...",
 				"4":"Ensemble's Refrain"}			
-			"Exotic":"Vex Mythoclast",
+			,"Exotic":"Vex Mythoclast",
 			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
 		"Dungeon":{	
 			"Name":"Grasp of Avarice",
 			"Exotic":"Gjallarhorn",
 			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
-		"Nightfall":{
+		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
@@ -337,13 +337,13 @@
 				"2":"Out of its Way",
 				"3":"Wait for It...",
 				"4":"Ensemble's Refrain"}			
-			"Exotic":"Vex Mythoclast",
+			,"Exotic":"Vex Mythoclast",
 			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
 		"Dungeon":{	
 			"Name":"Grasp of Avarice",
 			"Exotic":"Gjallarhorn",
 			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
-		"Nightfall":{
+		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
@@ -362,13 +362,13 @@
 				"2":"Out of its Way",
 				"3":"Wait for It...",
 				"4":"Ensemble's Refrain"}			
-			"Exotic":"Vex Mythoclast",
+			,"Exotic":"Vex Mythoclast",
 			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
 		"Dungeon":{	
 			"Name":"Grasp of Avarice",
 			"Exotic":"Gjallarhorn",
 			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
-		"Nightfall":{
+		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
