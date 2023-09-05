@@ -19,8 +19,8 @@
 			"Exotic":"none",
 			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
-			"Name":{},
-			"image":{},
+			"Name":"Scarlet Keep",
+			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":{}},
 		"LostSector":{
 			"Name":"K1 Revelation",
@@ -50,8 +50,8 @@
 			"Exotic":"none",
 			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
-			"Name":{},
-			"image":{},
+			"Name":"Scarlet Keep",
+			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":{}}
 		,"LostSector":{
 			"Name":"K1 Communion}",
@@ -81,10 +81,9 @@
 			"Exotic":"none",
 			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
-			"Name":{},
-			"image":{},
-			"Weapon":{},
-			"image":{}}
+			"Name":"Scarlet Keep",
+			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
+			"Weapon":{}}
 		,"LostSector":{
 			"Name":"K1 Crew Quarters",
 			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
@@ -113,8 +112,8 @@
 			"Exotic":"none",
 			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
-			"Name":{},
-			"image":{},
+			"Name":"Scarlet Keep",
+			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":{}}
 		,"LostSector":{
 			"Name":"Concealed Void",
@@ -144,8 +143,8 @@
 			"Exotic":"none",
 			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
-			"Name":{},
-			"image":{},
+			"Name":"Scarlet Keep",
+			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":{}}
 		,"LostSector":{
 			"Name":"Bunker E15",
@@ -175,8 +174,8 @@
 			"Exotic":"none",
 			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
-			"Name":{},
-			"image":{},
+			"Name":"Scarlet Keep",
+			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":{}}
 		,"LostSector":{
 			"Name":"Bay of Drowned Wishes",
@@ -206,8 +205,8 @@
 			"Exotic":"none",
 			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
-			"Name":{},
-			"image":{},
+			"Name":"Scarlet Keep",
+			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":{}}
 		,"LostSector":{
 			"Name":"Veles Labyrinth",
