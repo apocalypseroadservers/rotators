@@ -15,19 +15,19 @@
 			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"},
 		"Dungeon":{	
-			"Name":"Prophecy",
+			"Name":"Pit of Heresy",
 			"Exotic":"none",
-			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
+			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
 		"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{},
-			"image":{}},
+			"Name":"K1 Revelation",
+			"Champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
+			"Shields":"<:damagearc:1145541269339246603> Arc",
+			"Reward":"<:boots:1097529710357000304> Legs",
+			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/K1-Revelation-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}}
 ,	"20230906":{
@@ -46,19 +46,19 @@
 			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
 		,"Dungeon":{
-			"Name":"Prophecy",
+			"Name":"Pit of Heresy",
 			"Exotic":"none",
-			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
+			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}}
 		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{},
-			"image":{}},
+			"Name":"K1 Communion}",
+			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
+			"Shields":"<:damagesolar:1145541271667093565> Solar,<:damagevoid:1145541196467425361> Void",
+			"Reward":"<:gloves:1097529755835830333> Arms",
+			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/K1-Communion-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}}
 ,	"20230907":{
@@ -77,20 +77,20 @@
 			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
 		,"Dungeon":{
-			"Name":"Prophecy",
+			"Name":"Pit of Heresy",
 			"Exotic":"none",
-			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
+			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{},
 			"image":{}}
 		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{},
-			"image":{}},
+			"Name":"K1 Crew Quarters",
+			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
+			"Shields":"<:damagesolar:1145541271667093565> Solar",
+			"Reward":"<:chest:1097529731651477556> Chest",
+			"image":"https://www.blueberries.gg/wp-content/uploads/2022/07/K1-Crew-Quarters-Lost-Sector-Destiny-2-featured.jpg"},
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}}
 ,	"20230908":{
@@ -109,19 +109,19 @@
 			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
 		,"Dungeon":{
-			"Name":"Prophecy",
+			"Name":"Pit of Heresy",
 			"Exotic":"none",
-			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
+			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}}
 		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{},
-			"image":{}},
+			"Name":"Concealed Void",
+			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
+			"Shields":"<:damagesolar:1145541271667093565> Solar,<:damagevoid:1145541196467425361> Void",
+			"Reward":"<:helmet:1097529778350866543> Helmet",
+			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Concealed-Void-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}}
 ,	"20230909":{
@@ -140,19 +140,19 @@
 			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
 		,"Dungeon":{
-			"Name":"Prophecy",
+			"Name":"Pit of Heresy",
 			"Exotic":"none",
-			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
+			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}}
 		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{},
-			"image":{}},
+			"Name":"Bunker E15",
+			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
+			"Shields":"<:damagevoid:1145541196467425361> Void",
+			"Reward":"<:boots:1097529710357000304> Legs",
+			"image":"https://www.blueberries.gg/wp-content/uploads/2022/09/Bunker-E15-Lost-Sector-Destiny-2.jpg"},
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}}
 ,	"20230910":{
@@ -171,22 +171,22 @@
 			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
 		,"Dungeon":{
-			"Name":"Prophecy",
+			"Name":"Pit of Heresy",
 			"Exotic":"none",
-			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
+			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}}
 		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{},
-			"image":{}},
+			"Name":"Bay of Drowned Wishes",
+			"Champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
+			"Shields":"<:damagevoid:1145541196467425361> Void",
+			"Reward":"<:gloves:1097529755835830333> Arms",
+			"image":"https://destiny.wiki.gallery/images/thumb/6/66/Bay_of_Drowned_Wishes.jpg/1200px-Bay_of_Drowned_Wishes.jpg"},
 		"TrialsOfOsiris":{
-			"TrialsActive":"0"}}
-,	"20230911":{
+			"TrialsActive":"0"}},
+	"20230911":{
 		"Raid":{
 			"Name":"Deep Stone Crypt",
 			"Challenges":{
@@ -202,22 +202,22 @@
 			,"Exotic":"Eyes of Tomorrow",
 			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
 		,"Dungeon":{
-			"Name":"Prophecy",
+			"Name":"Pit of Heresy",
 			"Exotic":"none",
-			"image":"https://cdn.cloudtek.vn/images/2023/08/22/hocmarketing-org-og-41741-unleashing-destiny-2s-full-potential-mastering-the-kell-echo-challenge.jpg"}
+			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
 		,"Nightfall":{
 			"Name":{},
 			"image":{},
 			"Weapon":{}}
 		,"LostSector":{
-			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{},
-			"image":{}},
+			"Name":"Veles Labyrinth",
+			"Champions":"<:pierce:1145541266587787367> Barrier,<:stagger:1145541267695083590> Unstoppable}",
+			"Shields":"<:damagesolar:1145541271667093565> Solar,<:damagearc:1145541269339246603> Arc",
+			"Reward":"<:chest:1097529731651477556> Chest",
+			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Veles-Labyrinth-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
 		"TrialsOfOsiris":{
-			"TrialsActive":"0"}}
-,	"20230912":{
+			"TrialsActive":"0"}},
+	"20230912":{
 		"Raid":{
 			"Name":"Vault of Glass",
 			"Challenges":{
