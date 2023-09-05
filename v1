@@ -21,7 +21,7 @@
 		,"Nightfall":{
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
-			"Weapon":{}},
+			"Weapon":"Buzzard"},
 		"LostSector":{
 			"Name":"K1 Revelation",
 			"Champions":"<:pierce:1145541266587787367> Barrier, <:stagger:1145541267695083590> Unstoppable",
@@ -52,7 +52,7 @@
 		,"Nightfall":{
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
-			"Weapon":{}}
+			"Weapon":"Buzzard"}
 		,"LostSector":{
 			"Name":"K1 Communion}",
 			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
@@ -83,7 +83,7 @@
 		,"Nightfall":{
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
-			"Weapon":{}}
+			"Weapon":"Buzzard"}
 		,"LostSector":{
 			"Name":"K1 Crew Quarters",
 			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
@@ -114,7 +114,7 @@
 		,"Nightfall":{
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
-			"Weapon":{}}
+			"Weapon":"Buzzard"}
 		,"LostSector":{
 			"Name":"Concealed Void",
 			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
@@ -145,7 +145,7 @@
 		,"Nightfall":{
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
-			"Weapon":{}}
+			"Weapon":"Buzzard"}
 		,"LostSector":{
 			"Name":"Bunker E15",
 			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
@@ -176,7 +176,7 @@
 		,"Nightfall":{
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
-			"Weapon":{}}
+			"Weapon":"Buzzard"}
 		,"LostSector":{
 			"Name":"Bay of Drowned Wishes",
 			"Champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
@@ -207,7 +207,7 @@
 		,"Nightfall":{
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
-			"Weapon":{}}
+			"Weapon":"Buzzard"}
 		,"LostSector":{
 			"Name":"Veles Labyrinth",
 			"Champions":"<:pierce:1145541266587787367> Barrier,<:stagger:1145541267695083590> Unstoppable}",
