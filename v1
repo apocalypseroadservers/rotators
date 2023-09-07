@@ -28,6 +28,13 @@
 			"Shields":"<:damagearc:1145541269339246603> Arc",
 			"Reward":"<:boots:1097529710357000304> Legs",
 			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/K1-Revelation-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+		"IronBanner":{
+			"IronBannerActive":"1",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}}
 ,	"202396":{
@@ -53,7 +60,14 @@
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":"Buzzard"}
-		,"LostSector":{
+		,"IronBanner":{
+			"IronBannerActive":"1",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
 			"Name":"K1 Communion}",
 			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
 			"Shields":"<:damagesolar:1145541271667093565> Solar,<:damagevoid:1145541196467425361> Void",
@@ -84,7 +98,14 @@
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":"Buzzard"}
-		,"LostSector":{
+		,"IronBanner":{
+			"IronBannerActive":"1",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
 			"Name":"K1 Crew Quarters",
 			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
 			"Shields":"<:damagesolar:1145541271667093565> Solar",
@@ -115,7 +136,14 @@
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":"Buzzard"}
-		,"LostSector":{
+		,"IronBanner":{
+			"IronBannerActive":"1",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
 			"Name":"Concealed Void",
 			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
 			"Shields":"<:damagesolar:1145541271667093565> Solar,<:damagevoid:1145541196467425361> Void",
@@ -146,7 +174,14 @@
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":"Buzzard"}
-		,"LostSector":{
+		,"IronBanner":{
+			"IronBannerActive":"1",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
 			"Name":"Bunker E15",
 			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
 			"Shields":"<:damagevoid:1145541196467425361> Void",
@@ -177,7 +212,14 @@
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":"Buzzard"}
-		,"LostSector":{
+		,"IronBanner":{
+			"IronBannerActive":"1",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
 			"Name":"Bay of Drowned Wishes",
 			"Champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
 			"Shields":"<:damagevoid:1145541196467425361> Void",
@@ -208,7 +250,14 @@
 			"Name":"Scarlet Keep",
 			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
 			"Weapon":"Buzzard"}
-		,"LostSector":{
+		,"IronBanner":{
+			"IronBannerActive":"1",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
 			"Name":"Veles Labyrinth",
 			"Champions":"<:pierce:1145541266587787367> Barrier,<:stagger:1145541267695083590> Unstoppable}",
 			"Shields":"<:damagesolar:1145541271667093565> Solar,<:damagearc:1145541269339246603> Arc",
@@ -235,12 +284,19 @@
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
-		"LostSector":{
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
 			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{},
 			"image":{}},
+		"LostSector":{
+			"Name":"Exodus Garden 2A",
+			"Champions":"Barrier, Overload",
+			"Shields":"Void",
+			"Reward":"Helmet",
+			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Exodus-Garden-2A-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}}
 ,	"20230913":{
@@ -262,12 +318,19 @@
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
-		"LostSector":{
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
 			"Name":{},
-			"Champions":{},
-			"Shields":{},
-			"Reward":{},
 			"image":{}},
+		"LostSector":{
+			"Name":"Sepulcher",
+			"Champions":"Barrier, Overload",
+			"Shields":"Arc, Solar",
+			"Reward":"Legs",
+			"image":"https://staticg.sportskeeda.com/editor/2022/07/54a40-16577469721459-1920.jpg"},
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}}
 ,	"20230914":{
@@ -289,6 +352,13 @@
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
 		"LostSector":{
 			"Name":{},
 			"Champions":{},
@@ -316,6 +386,13 @@
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
 		"LostSector":{
 			"Name":{},
 			"Champions":{},
@@ -343,6 +420,13 @@
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
 		"LostSector":{
 			"Name":{},
 			"Champions":{},
@@ -370,6 +454,13 @@
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
 		"LostSector":{
 			"Name":{},
 			"Champions":{},
@@ -397,6 +488,13 @@
 			"Name":{},
 			"image":{},
 			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"1",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
 		"LostSector":{
 			"Name":{},
 			"Champions":{},
