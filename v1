@@ -181,6 +181,10 @@
 			"EventActive":"0",
 			"Name":{},
 			"image":{}},
+		"ExoticMission":{
+			"Name":"Operation: Seraph Shield",
+			"Exotic":"Revision Zero",
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/12/destiny-2-operation-seraph-s-shield-space-station.jpg"},
 		"LostSector":{
 			"Name":"Bunker E15",
 			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
@@ -188,8 +192,8 @@
 			"Reward":"<:boots:1097529710357000304> Legs",
 			"image":"https://www.blueberries.gg/wp-content/uploads/2022/09/Bunker-E15-Lost-Sector-Destiny-2.jpg"},
 		"TrialsOfOsiris":{
-			"TrialsActive":"0"}}
-,	"2023910":{
+			"TrialsActive":"0"}},
+	"2023910":{
 		"Raid":{
 			"Name":"Deep Stone Crypt",
 			"Challenges":{
@@ -219,6 +223,10 @@
 			"EventActive":"0",
 			"Name":{},
 			"image":{}},
+		"ExoticMission":{
+			"Name":"Operation: Seraph Shield",
+			"Exotic":"Revision Zero",
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/12/destiny-2-operation-seraph-s-shield-space-station.jpg"},
 		"LostSector":{
 			"Name":"Bay of Drowned Wishes",
 			"Champions":"<:overload:1145541265157542019> Overload, <:stagger:1145541267695083590> Unstoppable",
@@ -257,6 +265,10 @@
 			"EventActive":"0",
 			"Name":{},
 			"image":{}},
+		"ExoticMission":{
+			"Name":"Operation: Seraph Shield",
+			"Exotic":"Revision Zero",
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/12/destiny-2-operation-seraph-s-shield-space-station.jpg"},
 		"LostSector":{
 			"Name":"Veles Labyrinth",
 			"Champions":"<:pierce:1145541266587787367> Barrier,<:stagger:1145541267695083590> Unstoppable}",
@@ -266,6 +278,279 @@
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}},
 	"2023912":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Prohecy",
+			"Exotic":"none",
+			"image":"https://i.pinimg.com/1200x/5d/d6/72/5dd672c5a36c8557a5b8f95ed0e8f0b0.jpg"}
+		,"Nightfall":{
+			"Name":"Heist Battleground: Europa",
+			"image":"https://titles.trackercdn.com/destiny/img/destiny_content/pgcr/season_19_battleground_europa.jpg",
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"ExoticMission":{
+			"Name":"Presage",
+			"Exotic":"Dead Man's Tale",
+			"image":"https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/08/03/exotic-mission-schedule-destiny-2_feature.jpg"},
+		"LostSector":{
+			"Name":"Exodus Garden 2A",
+			"Champions":"<:pierce:1145541266587787367> Barrier, <:overload:1145541265157542019> Overload",
+			"Shields":"<:damagevoid:1145541196467425361> Void",
+			"Reward":"<:helmet:1097529778350866543> Helmet",
+			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Exodus-Garden-2A-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
+,	"20230913":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Prohecy",
+			"Exotic":"none",
+			"image":"https://i.pinimg.com/1200x/5d/d6/72/5dd672c5a36c8557a5b8f95ed0e8f0b0.jpg"}
+		,"Nightfall":{
+			"Name":"Heist Battleground: Europa",
+			"image":"https://titles.trackercdn.com/destiny/img/destiny_content/pgcr/season_19_battleground_europa.jpg",
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"ExoticMission":{
+			"Name":"Presage",
+			"Exotic":"Dead Man's Tale",
+			"image":"https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/08/03/exotic-mission-schedule-destiny-2_feature.jpg"},
+		"LostSector":{
+			"Name":"Sepulcher",
+			"Champions":"<:pierce:1145541266587787367> Barrier,<:stagger:1145541267695083590> Unstoppable",
+			"Shields":"<:damagearc:1145541269339246603> Arc,<:damagesolar:1145541271667093565> Solar",
+			"Reward":"<:boots:1097529710357000304> Legs",
+			"image":"https://staticg.sportskeeda.com/editor/2022/07/54a40-16577469721459-1920.jpg"},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
+,	"20230914":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Prohecy",
+			"Exotic":"none",
+			"image":"https://i.pinimg.com/1200x/5d/d6/72/5dd672c5a36c8557a5b8f95ed0e8f0b0.jpg"}
+		,"Nightfall":{
+			"Name":"Heist Battleground: Europa",
+			"image":"https://titles.trackercdn.com/destiny/img/destiny_content/pgcr/season_19_battleground_europa.jpg",
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"ExoticMission":{
+			"Name":"Presage",
+			"Exotic":"Dead Man's Tale",
+			"image":"https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/08/03/exotic-mission-schedule-destiny-2_feature.jpg"},
+		"LostSector":{
+			"Name":"Extraction",
+			"Champions":"<:overload:1145541265157542019> Overload,<:stagger:1145541267695083590> Unstoppable",
+			"Shields":"<:damagearc:1145541269339246603> Arc,<:damagevoid:1145541196467425361> Void",
+			"Reward":"<:gloves:1097529755835830333> Arms",
+			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
+,	"20230915":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Prophecy",
+			"Exotic":"none",
+			"image":"https://i.pinimg.com/1200x/5d/d6/72/5dd672c5a36c8557a5b8f95ed0e8f0b0.jpg"}
+		,"Nightfall":{
+			"Name":"Heist Battleground: Europa",
+			"image":"https://titles.trackercdn.com/destiny/img/destiny_content/pgcr/season_19_battleground_europa.jpg",
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"ExoticMission":{
+			"Name":"Presage",
+			"Exotic":"Dead Man's Tale",
+			"image":"https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/08/03/exotic-mission-schedule-destiny-2_feature.jpg"},
+		"LostSector":{
+			"Name":"Metamorphosis",
+			"Champions":"<:overload:1145541265157542019> Overload,<:stagger:1145541267695083590> Unstoppable",
+			"Shields":"<:damagearc:1145541269339246603> Arc,<:damagesolar:1145541271667093565> Solar",
+			"Reward":"<:chest:1097529731651477556> Chest",
+			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/02/Metamorphosis-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+		"TrialsOfOsiris":{
+			"TrialsActive":"1",
+			"TrialsMap":"Altar of Flame",
+			"TrialsWeapon":"The Immortal (Adept)",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/2/20/Altar_of_Flame.jpg/revision/latest?cb=20180929230325"}}
+,	"20230916":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		,"Nightfall":{
+			"Name":"Heist Battleground: Europa",
+			"image":"https://i.pinimg.com/1200x/5d/d6/72/5dd672c5a36c8557a5b8f95ed0e8f0b0.jpg",
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"ExoticMission":{
+			"Name":"Presage",
+			"Exotic":"Dead Man's Tale",
+			"image":"https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/08/03/exotic-mission-schedule-destiny-2_feature.jpg"},
+		"LostSector":{
+			"Name":{},
+			"Champions":{},
+			"Shields":{},
+			"Reward":{},
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"1"}}
+,	"20230917":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Prophecy",
+			"Exotic":"none",
+			"image":"https://i.pinimg.com/1200x/5d/d6/72/5dd672c5a36c8557a5b8f95ed0e8f0b0.jpg"}
+		,"Nightfall":{
+			"Name":"Heist Battleground: Europa",
+			"image":"https://titles.trackercdn.com/destiny/img/destiny_content/pgcr/season_19_battleground_europa.jpg",
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"ExoticMission":{
+			"Name":"Presage",
+			"Exotic":"Dead Man's Tale",
+			"image":"https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/08/03/exotic-mission-schedule-destiny-2_feature.jpg"},
+		"LostSector":{
+			"Name":{},
+			"Champions":{},
+			"Shields":{},
+			"Reward":{},
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"1"}},
+	"20230918":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"Cosmic Equillibrium",
+				"1":"Hands Off",
+				"2":"Looping Catalyst",
+				"3":"Wait for It...",
+				"4":"Copies of Copies",
+				"5":"Leftovers",
+				"6":"A Link to the Chain",
+				"7":"To the Top",
+				"8":"Zero to One Hundred"}
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
+		,"Dungeon":{
+			"Name":"Prophecy",
+			"Exotic":"none",
+			"image":"https://i.pinimg.com/1200x/5d/d6/72/5dd672c5a36c8557a5b8f95ed0e8f0b0.jpg"}
+		,"Nightfall":{
+			"Name":"Heist Battleground: Europa",
+			"image":"https://titles.trackercdn.com/destiny/img/destiny_content/pgcr/season_19_battleground_europa.jpg",
+			"Weapon":"null"}
+		,"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"ExoticMission":{
+			"Name":"Presage",
+			"Exotic":"Dead Man's Tale",
+			"image":"https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/08/03/exotic-mission-schedule-destiny-2_feature.jpg"},
+		"LostSector":{
+			"Name":"Veles Labyrinth",
+			"Champions":"<:pierce:1145541266587787367> Barrier,<:stagger:1145541267695083590> Unstoppable}",
+			"Shields":"<:damagesolar:1145541271667093565> Solar,<:damagearc:1145541269339246603> Arc",
+			"Reward":"<:chest:1097529731651477556> Chest",
+			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Veles-Labyrinth-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}},
+	"2023919":{
 		"Raid":{
 			"Name":"Vault of Glass",
 			"Challenges":{
@@ -299,7 +584,7 @@
 			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Exodus-Garden-2A-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}}
-,	"20230913":{
+,	"20230920":{
 		"Raid":{
 			"Name":"Vault of Glass",
 			"Challenges":{
@@ -333,7 +618,7 @@
 			"image":"https://staticg.sportskeeda.com/editor/2022/07/54a40-16577469721459-1920.jpg"},
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}}
-,	"20230914":{
+,	"20230922":{
 		"Raid":{
 			"Name":"Vault of Glass",
 			"Challenges":{
@@ -367,7 +652,7 @@
 			"image":{}},
 		"TrialsOfOsiris":{
 			"TrialsActive":"0"}}
-,	"20230915":{
+,	"20230923":{
 		"Raid":{
 			"Name":"Vault of Glass",
 			"Challenges":{
@@ -401,7 +686,7 @@
 			"image":{}},
 		"TrialsOfOsiris":{
 			"TrialsActive":"1"}}
-,	"20230916":{
+,	"20230924":{
 		"Raid":{
 			"Name":"Vault of Glass",
 			"Challenges":{
@@ -435,7 +720,7 @@
 			"image":{}},
 		"TrialsOfOsiris":{
 			"TrialsActive":"1"}}
-,	"20230917":{
+,	"20230925":{
 		"Raid":{
 			"Name":"Vault of Glass",
 			"Challenges":{
@@ -469,7 +754,249 @@
 			"image":{}},
 		"TrialsOfOsiris":{
 			"TrialsActive":"1"}}
-,	"20230918":{
+,	"20230926":{
+		"Raid":{
+			"Name":"Deep Stone Crypt",
+			"Challenges":{
+				"0":"Cosmic Equillibrium",
+				"1":"Hands Off",
+				"2":"Looping Catalyst",
+				"3":"Wait for It...",
+				"4":"Copies of Copies",
+				"5":"Leftovers",
+				"6":"A Link to the Chain",
+				"7":"To the Top",
+				"8":"Zero to One Hundred"}
+			,"Exotic":"Eyes of Tomorrow",
+			"image":"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/03/Destiny-2-Taniks-Solo-Deep-Stone-Crypt.jpg"}
+		,"Dungeon":{
+			"Name":"Pit of Heresy",
+			"Exotic":"none",
+			"image":"https://cdn.mos.cms.futurecdn.net/XHJFwMbCexnmLkQoKHWqG6.jpg"}
+		,"Nightfall":{
+			"Name":"Scarlet Keep",
+			"image":"https://www.doncaprio.com/wp-content/uploads/2022/04/word-image-4.jpeg",
+			"Weapon":"Buzzard"}
+		,"IronBanner":{
+			"IronBannerActive":"1",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
+			"Name":"Veles Labyrinth",
+			"Champions":"<:pierce:1145541266587787367> Barrier,<:stagger:1145541267695083590> Unstoppable}",
+			"Shields":"<:damagesolar:1145541271667093565> Solar,<:damagearc:1145541269339246603> Arc",
+			"Reward":"<:chest:1097529731651477556> Chest",
+			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Veles-Labyrinth-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}},
+	"2023927":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		,"Nightfall":{
+			"Name":{},
+			"image":{},
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
+			"Name":"Exodus Garden 2A",
+			"Champions":"Barrier, Overload",
+			"Shields":"Void",
+			"Reward":"Helmet",
+			"image":"https://i0.wp.com/kyberscorner.com/wp-content/uploads/2022/03/Exodus-Garden-2A-Lost-Sector.jpg?fit=1280%2C720&ssl=1"},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
+,	"20230928":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		,"Nightfall":{
+			"Name":{},
+			"image":{},
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
+			"Name":"Sepulcher",
+			"Champions":"Barrier, Overload",
+			"Shields":"Arc, Solar",
+			"Reward":"Legs",
+			"image":"https://staticg.sportskeeda.com/editor/2022/07/54a40-16577469721459-1920.jpg"},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
+,	"20230929":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		,"Nightfall":{
+			"Name":{},
+			"image":{},
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
+			"Name":{},
+			"Champions":{},
+			"Shields":{},
+			"Reward":{},
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"0"}}
+,	"20230930":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		,"Nightfall":{
+			"Name":{},
+			"image":{},
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
+			"Name":{},
+			"Champions":{},
+			"Shields":{},
+			"Reward":{},
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"1"}}
+,	"2023101":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		,"Nightfall":{
+			"Name":{},
+			"image":{},
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
+			"Name":{},
+			"Champions":{},
+			"Shields":{},
+			"Reward":{},
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"1"}}
+,	"2023102":{
+		"Raid":{
+			"Name":"Vault of Glass",
+			"Challenges":{
+				"0":"The Only Oracle For You",
+				"1":"Strangers in Time",
+				"2":"Out of its Way",
+				"3":"Wait for It...",
+				"4":"Ensemble's Refrain"}			
+			,"Exotic":"Vex Mythoclast",
+			"image":"https://static.wikia.nocookie.net/destinypedia/images/0/07/Atheon.jpg/revision/latest?cb=20150403034110"},
+		"Dungeon":{	
+			"Name":"Grasp of Avarice",
+			"Exotic":"Gjallarhorn",
+			"image":"https://www.gamespot.com/a/uploads/original/1581/15811374/3919301-graspofavariceskull.jpg"}
+		,"Nightfall":{
+			"Name":{},
+			"image":{},
+			"Weapon":{}},
+		"IronBanner":{
+			"IronBannerActive":"0",
+			"IronBannerMode":"Fortress"},
+		"Event":{
+			"EventActive":"0",
+			"Name":{},
+			"image":{}},
+		"LostSector":{
+			"Name":{},
+			"Champions":{},
+			"Shields":{},
+			"Reward":{},
+			"image":{}},
+		"TrialsOfOsiris":{
+			"TrialsActive":"1"}}
+,	"2023103":{
 		"Raid":{
 			"Name":"Vault of Glass",
 			"Challenges":{
